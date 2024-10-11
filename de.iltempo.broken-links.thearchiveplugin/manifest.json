@@ -1,0 +1,27 @@
+{
+  "appVersion" : "1.8.0",
+  "authors" : [
+    {
+      "name" : "Alexander Greim"
+    }
+  ],
+  "dependencies" : [
+  ],
+  "description" : "",
+  "identifier" : "de.iltempo.broken-links",
+  "input" : {
+    "notes" : [
+      "all"
+    ],
+    "text" : [
+
+    ]
+  },
+  "output" : {
+    "changeFile" : "Broken Links",
+    "onCompletion" : "showFile"
+  },
+  "releaseDate" : "2024-10-11",
+  "title" : "Find Broken Links",
+  "version" : "1.0.0"
+}
